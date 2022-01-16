@@ -35,7 +35,7 @@ public class Score {
         this.id.setMovie(movie);
     }
 
-    public void serUser(User user) {
+    public void setUser(User user) {
         this.id.setUser(user);
     }
 }
